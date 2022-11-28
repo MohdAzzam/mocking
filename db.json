@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Mohammad Azzam",
+      "phoneNumber": "0796817657",
+      "landlineNumber": "",
+      "img": "https://via.placeholder.com/150",
+      "isFav": false
+    },
+    {
+      "id": 2,
+      "name": "Amr Azzam",
+      "phoneNumber": "0796815857",
+      "landlineNumber": "",
+      "img": "https://via.placeholder.com/150",
+      "isFav": false
+    }
+  ]
+}
